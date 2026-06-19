@@ -37,14 +37,14 @@ Además, incorpora herramientas para administrar los registros almacenados media
 ## 📂 Estructura del Proyecto
 
 ```text
-python-simulador-alcoholemia-vial/
+SimuladorAlcoholemiaVial-Python/
 
 ├── core/
 │   ├── backend.py
 │   └── validators.py
 │
 ├── data/
-│   └── drivers.json
+│   └── data.json
 │
 ├── reports/
 │   └── pdf_export.py
@@ -75,13 +75,13 @@ python-simulador-alcoholemia-vial/
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/python-simulador-alcoholemia-vial.git
+git clone https://github.com/JohnVega-1S10-SIS-S/SimuladorAlcoholemiaVial-Python
 ```
 
 Entrar al directorio:
 
 ```bash
-cd python-simulador-alcoholemia-vial
+cd SimuladorAlcoholemiaVial-Python
 ```
 
 Instalar dependencias:
@@ -160,30 +160,6 @@ Permite generar:
 - Reporte individual de conductor.
 - Reporte estadístico.
 - Tabla completa de registros.
-
----
-
-## 📸 Capturas
-
-### Menú principal
-
-*(Insertar captura aquí)*
-
-### Registro de conductor
-
-*(Insertar captura aquí)*
-
-### Tabla de registros
-
-*(Insertar captura aquí)*
-
-### Estadísticas
-
-*(Insertar captura aquí)*
-
-### Reportes PDF
-
-*(Insertar captura aquí)*
 
 ---
 
